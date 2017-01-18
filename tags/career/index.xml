@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career on Developer Blog</title>
+    <link>http://blog.dev/public/tags/career/index.xml</link>
+    <description>Recent content in Career on Developer Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <atom:link href="http://blog.dev/public/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why start writing</title>
+      <link>http://blog.dev/public/2017/01/why-start-writing</link>
+      <pubDate>Tue, 17 Jan 2017 23:19:45 -0600</pubDate>
+      
+      <guid>http://blog.dev/public/2017/01/why-start-writing</guid>
+      <description>
+
+&lt;h2 id=&#34;whoami&#34;&gt;whoami&lt;/h2&gt;
+
+&lt;p&gt;Why did I decide to start writing articles about web development?
+- self improvement
+- share experiences
+- career growth
+- goals&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
