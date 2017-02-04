@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Developer Blog</title>
-    <link>http://blog.dev/public/index.xml</link>
-    <description>Recent content on Developer Blog</description>
+    <title>General on Developer Blog</title>
+    <link>http://blog.dev/public/categories/general/index.xml</link>
+    <description>Recent content in General on Developer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Tue, 17 Jan 2017 23:19:45 -0600</lastBuildDate>
-    <atom:link href="http://blog.dev/public/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.dev/public/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why start writing?</title>

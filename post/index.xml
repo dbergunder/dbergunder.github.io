@@ -2,29 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Developer Blog</title>
-    <link>https://dbergunder.github.io/post/index.xml</link>
+    <link>http://blog.dev/public/post/index.xml</link>
     <description>Recent content in Posts on Developer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Tue, 17 Jan 2017 23:19:45 -0600</lastBuildDate>
-    <atom:link href="https://dbergunder.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.dev/public/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Why start writing</title>
-      <link>https://dbergunder.github.io/2017/01/why-start-writing</link>
+      <title>Why start writing?</title>
+      <link>http://blog.dev/public/2017/01/why-start-writing</link>
       <pubDate>Tue, 17 Jan 2017 23:19:45 -0600</pubDate>
       
-      <guid>https://dbergunder.github.io/2017/01/why-start-writing</guid>
+      <guid>http://blog.dev/public/2017/01/why-start-writing</guid>
       <description>
 
-&lt;h2 id=&#34;whoami&#34;&gt;whoami&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s not that I have poor grammer, it&amp;rsquo;s that my keyboard is insubordinate.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Why did I decide to start writing articles about web development?
-- self improvement
-- share experiences
-- career growth
-- goals&lt;/p&gt;
+&lt;p&gt;As my first foray into any kind of public technical writing, I decided I would start off by explaining &lt;em&gt;why I am writing&lt;/em&gt;.  With so many paths for jumping into the web development community - either via contributing to open source, writing articles and tutorials, or presenting at technical conferences; this seemed like the best start for me.  It shouldn&amp;rsquo;t be unheard of for a more senior developer to role up their sleeves and write some documentation about company development practices, policies, or to explain how an api works. I feel like blogging is a natural extension of that.  I am also pulling a lot of inspiration from other developers who&amp;rsquo;ve done the same, and my goals are as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;at least an article per month&lt;/li&gt;
+&lt;li&gt;topics relevant to me, but may be useful for everyone&lt;/li&gt;
+&lt;li&gt;accept criticism (but tred lightly on the internet)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;whoami-small-no-seriously-who-is-this-guy-small&#34;&gt;whoami &lt;small&gt;no seriously who is this guy?&lt;/small&gt;&lt;/h2&gt;
+
+&lt;p&gt;I am a Web Application Developer currently working as the Lead Web Developer for the International Code Council.  We build some pretty robust applications, mostly in the Symfony framework.  I have been in the tech industry for well over 10 years, but have a mixed bag of experiences.  I am humbled by the enormity and evolution of the web, the spring of languages and frameworks, and the community that drives it&amp;rsquo;s innovation.  I think I can confidently say that I have been baptised in many hard learned lessons in development.&lt;/p&gt;
+
+&lt;h2 id=&#34;self-improvement-small-starve-the-ego-feed-the-soul-small&#34;&gt;self improvement &lt;small&gt;starve the ego, feed the soul&lt;/small&gt;&lt;/h2&gt;
+
+&lt;p&gt;Blogging is going to give me a way to diversify.  I &lt;em&gt;love&lt;/em&gt; programming.  I thoroughly enjoy web development and all the unique challenges I solve, but I struggled figuring out how else I can grow as a web developer.  &lt;em&gt;The more you know, the more you realise you don&amp;rsquo;t really know anything, and if you focus on one thing too much you tend to fall behind.&lt;/em&gt;  I am at a point where I want to transision my career to take on broader scopes of strategy and planning; architecting systems and technology solutions.  So I really need to start focusing on how well I can communicate technical concepts.&lt;/p&gt;
+
+&lt;h2 id=&#34;career-growth-small-gotta-have-something-to-aim-for-small&#34;&gt;career growth &lt;small&gt;gotta have something to aim for&lt;/small&gt;&lt;/h2&gt;
+
+&lt;p&gt;Lets be honest here, career planning in web development is &lt;em&gt;kind of a shit show&lt;/em&gt;.  Titles are meaningless.  Long stints at companies are rare.  This industry demands you prove you know what you&amp;rsquo;re doing.  My metric right now will be putting words out there and contributing what I know, and hopefully helping out other developers and learning something new myself.&lt;/p&gt;
+
+&lt;h2 id=&#34;not-an-island-small-not-a-taco-either-small&#34;&gt;not an island &lt;small&gt;not a taco either&lt;/small&gt;&lt;/h2&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested in writing, go for it!  it was pretty easy to setup a static site in &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; (free!) and host on &lt;a href=&#34;https://pages.github.com/&#34;&gt;github pages&lt;/a&gt; (also free!).  You&amp;rsquo;ll need to know markdown and how to get aroud the command line, but the experience can be pretty rewarding.&lt;/p&gt;
 </description>
     </item>
     
