@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.dev/public/2017/01/why-start-writing</loc>
+    <loc>https://dbergunder.github.io/2017/01/why-start-writing</loc>
     <lastmod>2017-01-17T23:19:45-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.dev/public/categories/</loc>
+    <loc>https://dbergunder.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.dev/public/</loc>
-    <lastmod>2017-01-17T23:19:45-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.dev/public/categories/general/</loc>
+    <loc>https://dbergunder.github.io/</loc>
     <lastmod>2017-01-17T23:19:45-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.dev/public/tags/initial-commit/</loc>
+    <loc>https://dbergunder.github.io/categories/general/</loc>
     <lastmod>2017-01-17T23:19:45-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.dev/public/post/</loc>
+    <loc>https://dbergunder.github.io/tags/initial-commit/</loc>
     <lastmod>2017-01-17T23:19:45-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.dev/public/tags/</loc>
+    <loc>https://dbergunder.github.io/post/</loc>
+    <lastmod>2017-01-17T23:19:45-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dbergunder.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
